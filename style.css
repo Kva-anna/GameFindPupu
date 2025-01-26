@@ -1,0 +1,15 @@
+div{
+    display: flex;
+}
+
+.boxs{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 200px;
+    height: 150px;
+    background: rgb(124, 52, 52);
+    margin: 50px;
+}
